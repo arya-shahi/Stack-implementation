@@ -84,3 +84,16 @@ int main() {
 
     return 0;
 }
+
+
+/* Output
+Menu:
+1. Push
+2. Pop
+3. Display
+4. Exit
+Enter your choice: 1
+Enter value to push: 4
+4 pushed to stack.
+
+*/
